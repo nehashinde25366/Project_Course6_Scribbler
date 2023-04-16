@@ -1,2 +1,2 @@
 # Project_Course6_Scribbler
-Frontend Upgrad Scribbler Project In FullStack Development
+Frontend Upgrad Scribbler Project In FullStack Development Course
